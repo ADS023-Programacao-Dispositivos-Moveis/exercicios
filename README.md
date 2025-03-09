@@ -1,5 +1,5 @@
 # Exercícios de Programação para Dispositivos Móveis
-#### Turma: 2CB | Código da Disciplina: ADS023
+#### Turma: **OADSNM2CB** | Código da Disciplina: ADS023 | Semestre: **3** | Professor: [Gustavo Clay](https://github.com/gustavoclay)
 
 
 ## Objetivo
