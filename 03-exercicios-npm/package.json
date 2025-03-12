@@ -1,0 +1,16 @@
+{
+  "name": "03-exercicios-npm",
+  "version": "1.0.0",
+  "description": "Exercicios relacionados ao conteúdo de NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "exercicios"
+  },
+  "author": "Sérgio Silva",
+  "type":"module",
+  "license": "ISC"
+}
