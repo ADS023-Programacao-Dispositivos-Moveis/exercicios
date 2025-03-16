@@ -1,4 +1,5 @@
 # Exercícios de Programação para Dispositivos Móveis
+[![forthebadge made-with-javascript](http://ForTheBadge.com/images/badges/made-with-javascript.svg)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [![forthebadge made-with-react-native](http://ForTheBadge.com/images/badges/made-with-react.svg)](https://reactnative.dev/)
 #### Turma: 2CB | Código da Disciplina: ADS023
 #### Turno: Noturno | Professor: [Gustavo Clay](https://github.com/gustavoclay)
 
