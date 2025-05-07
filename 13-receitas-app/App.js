@@ -4,10 +4,6 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { Provider as PaperProvider } from 'react-native-paper';
 import StackRoute from './src/routes/StackRoute';
 
-// Importanto Screens
-import HomeScreen from './src/Screens/HomeScreen';
-import ReceitaScreen from './src/Screens/ReceitaScreen';
-
 export default function App() {
   return (
     <PaperProvider>
