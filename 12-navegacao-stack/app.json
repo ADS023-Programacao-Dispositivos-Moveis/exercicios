@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "12-navegacao-stack-e-drawer",
-    "slug": "12-navegacao-stack-e-drawer",
+    "name": "12-navegacao-stack",
+    "slug": "12-navegacao-stack",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
