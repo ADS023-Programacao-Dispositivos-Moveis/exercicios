@@ -19,7 +19,7 @@ export default function App() {
             component={MegaSenaScreen}
             options={{
               tabBarIcon: ({ color, size }) => (
-                <MaterialCommunityIcons name="numeric" color={color} size={size} />
+                <MaterialCommunityIcons name="clover" color={color} size={size} />
               ),
             }}
           />
@@ -28,7 +28,7 @@ export default function App() {
             component={JogoDoBichoScreen}
             options={{
               tabBarIcon: ({ color, size }) => (
-                <MaterialCommunityIcons name="paw" color={color} size={size} />
+                <MaterialCommunityIcons name="bug" color={color} size={size} />
               ),
             }}
           />
